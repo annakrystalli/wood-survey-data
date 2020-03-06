@@ -1,32 +1,6 @@
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-dataspice-tutorial
+ACCE `wood-survey-data` repository
 ==================
-
-[![DOI](https://zenodo.org/badge/136082880.svg)](https://zenodo.org/badge/latestdoi/136082880)
-
-The goal of dataspice-tutorial is a practical exercise in creating metadata for an example field collected data product using package `dataspice`.
-
--   Understand basic metadata and why it is important
--   Understand where and how to store them
--   Understand how they can feed into more complex metadata objects.
-
-<br>
-
--   ### [Tutorial](http://annakrystalli.me/dataspice-tutorial/)
-
--   ### [Introductory slides](http://annakrystalli.me/dataspice-tutorial/slides.html)
-
-------------------------------------------------------------------------
-
-<br>
-
-`dataspice`
------------
-
-Package [`dataspice`](https://github.com/ropenscilabs/dataspice) makes it easier for researchers to create basic, lightweight and concise metadata files for their datasets. Metadata fields are based on [schema.org](http://schema.org/Dataset)
-
-<br>
 
 Data source : NEON data portal
 ------------------------------
