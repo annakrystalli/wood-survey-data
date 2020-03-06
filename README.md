@@ -1,5 +1,5 @@
 
-ACCE `wood-survey-data` repository
+ACCE DTP `wood-survey-data` repository
 ==================
 
 Data source : NEON data portal
@@ -29,7 +29,7 @@ For additional details, see protocols:
 
 ------------------------------------------------------------------------
 
-### `dataspice` exercise data
+### ACCE DTP exercise data
 
 The data are a trimmed subset of data downladed from the [**NEON data portal**](http://data.neonscience.org/browse-data) after filtering for:
 
@@ -41,9 +41,9 @@ Filter returned data from **2 sites** from **`2015-6`** to **`2015-11`**.
 
 <br>
 
-### vst\_perplotperyear.csv
+### `perplot_data/` 
 
-Plot level data
+Individual `.csv` files containing plot level data
 
 | date       | siteID | plotID    | plotType | nlcdClass       |  decimalLatitude|  decimalLongitude| treesPresent | shrubsPresent | lianasPresent |  totalSampledAreaTrees|  totalSampledAreaShrubSapling|  totalSampledAreaLiana| recordedBy                       |
 |:-----------|:-------|:----------|:---------|:----------------|----------------:|-----------------:|:-------------|:--------------|:--------------|----------------------:|-----------------------------:|----------------------:|:---------------------------------|
