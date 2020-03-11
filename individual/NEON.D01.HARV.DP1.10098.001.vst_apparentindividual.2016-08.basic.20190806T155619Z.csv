@@ -1,0 +1,74 @@
+uid,namedLocation,date,eventID,plotID,individualID,growthForm,plantStatus,stemDiameter,measurementHeight,height
+7004f51d-69af-4fdc-bf25-379ad01044b8,HARV_046.basePlot.vst,2016-08-08,vst_HARV_2016,HARV_046,NEON.PLA.D01.HARV.10855,single bole tree,"Dead, broken bole",15.1,130,1.8
+87705bdf-0791-45ca-a0c3-bbaf8658b379,HARV_046.basePlot.vst,2016-08-08,vst_HARV_2016,HARV_046,NEON.PLA.D01.HARV.10846,NA,No longer qualifies,NA,NA,NA
+a8c9ff5b-b889-469c-8345-cadbeb6722ba,HARV_046.basePlot.vst,2016-08-08,vst_HARV_2016,HARV_046,NEON.PLA.D01.HARV.04248,single bole tree,Live,18,130,12.4
+a87ecc99-265c-438b-b08b-94a7c645dce3,HARV_046.basePlot.vst,2016-08-08,vst_HARV_2016,HARV_046,NEON.PLA.D01.HARV.04256,single bole tree,Live,23.8,130,15.1
+dcb6b438-7137-4d2a-b658-e22d60caeafc,HARV_046.basePlot.vst,2016-08-08,vst_HARV_2016,HARV_046,NEON.PLA.D01.HARV.10848,single bole tree,Live,17,130,13
+14dbd4ff-2cdf-4c9a-afab-9b27c999cd2f,HARV_046.basePlot.vst,2016-08-08,vst_HARV_2016,HARV_046,NEON.PLA.D01.HARV.04262,single bole tree,Live,20,130,7.9
+01347932-57ee-4d92-9249-f16bc1d815cd,HARV_046.basePlot.vst,2016-08-08,vst_HARV_2016,HARV_046,NEON.PLA.D01.HARV.10849,single bole tree,Standing dead,11.5,130,8.5
+40ddf374-c9d4-4fb3-a44b-ab02d787f088,HARV_046.basePlot.vst,2016-08-08,vst_HARV_2016,HARV_046,NEON.PLA.D01.HARV.04046,single shrub,Live,2.1,130,1.6
+37eb8277-1af8-4115-8532-56dc97a66ba0,HARV_046.basePlot.vst,2016-08-08,vst_HARV_2016,HARV_046,NEON.PLA.D01.HARV.04369,single bole tree,Live,22.4,130,14.2
+1e0c141b-6d60-4f81-9f53-83e6d8e8b926,HARV_046.basePlot.vst,2016-08-08,vst_HARV_2016,HARV_046,NEON.PLA.D01.HARV.04245,single bole tree,Live,23.1,130,13.3
+2be0d914-54ae-4978-bf0e-930214044ee5,HARV_046.basePlot.vst,2016-08-08,vst_HARV_2016,HARV_046,NEON.PLA.D01.HARV.10844,single shrub,Live,2.1,130,2.8
+09716906-3bd4-4fb9-b383-2983979622a8,HARV_046.basePlot.vst,2016-08-08,vst_HARV_2016,HARV_046,NEON.PLA.D01.HARV.10845,single shrub,Live,3.3,130,5.1
+38dd6222-ab0f-4cb5-96cd-c6300a173337,HARV_046.basePlot.vst,2016-08-08,vst_HARV_2016,HARV_046,NEON.PLA.D01.HARV.04268,single bole tree,Live,15.8,130,10.4
+01355dbc-b343-44e6-91fd-7dad9380ee70,HARV_046.basePlot.vst,2016-08-08,vst_HARV_2016,HARV_046,NEON.PLA.D01.HARV.04277,single bole tree,Live,13,130,6.9
+8590aea0-5dad-4acc-9532-8da0d1a01b30,HARV_046.basePlot.vst,2016-08-08,vst_HARV_2016,HARV_046,NEON.PLA.D01.HARV.04259,single bole tree,Live,20,130,9.3
+7d9ab03b-279d-4fd3-81c8-76b46c4f980d,HARV_046.basePlot.vst,2016-08-08,vst_HARV_2016,HARV_046,NEON.PLA.D01.HARV.04279,single bole tree,Live,23.7,130,14.1
+a8b34adf-9321-4017-a2a3-a0bf20b55fb9,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.04087A,multi-bole tree,"Live, physically damaged",15,130,NA
+7c9ba97c-38a9-46b2-a41a-0c3a42e52b13,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.04659,small tree,"Live, insect damaged",8.7,130,6.3
+563dc63b-069f-497f-8ac3-a780695e0c8d,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.04074,single bole tree,Live,10.4,130,12
+b79fbca8-637a-444e-8574-614522f9ae31,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.10364,single bole tree,Live,10.1,130,11.9
+4b57a9cf-0e6c-4d5a-a38f-1ae852e5e909,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.04544A,multi-bole tree,Live,10.2,130,NA
+1a0fb5ef-b81c-41b0-8fae-89b928b0d679,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.04565A,multi-bole tree,"Live, insect damaged",10.2,130,NA
+68b977ef-1c0e-47f6-b3e3-29485459a786,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.10004,small tree,"Live, insect damaged",2.3,130,2.9
+51ccdfbe-b9ac-4148-93e7-8cfc50b32124,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.10014,small tree,"Live, insect damaged",4.8,120,4.8
+0e1fb8dd-0906-41c2-a5d5-db66c763aa30,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.04667,small tree,"Live, insect damaged",9.8,130,10.6
+d2899b79-679c-4399-96db-a19b9b58d394,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.04079,multi-bole tree,"Live, insect damaged",18.7,160,13.3
+d9dbb06a-904d-4c4c-b133-69d3d61bd8a0,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.10008,small tree,"Live, insect damaged",2.5,130,2.3
+db864bd2-546e-49a0-85d8-4230e2f6522b,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.04686,small tree,"Dead, broken bole",8.1,130,3.8
+86aa67d1-d7b3-4af9-ac86-3c974ee8dd08,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.04659,small tree,Standing dead,3,130,6.3
+6660fff7-cd19-48c4-b9b1-e3b1ffe20302,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.10003,sapling,"Live, insect damaged",NA,NA,1.4
+d7dc1b16-5b28-4098-901c-823824b119dd,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.10006,sapling,Standing dead,NA,NA,1.2
+c6baa89c-5ef2-4709-99f0-b78de513f1f8,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.04067,single bole tree,Live,10.9,130,12
+70d427c5-516c-453e-b0b0-8df1fe837a0f,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.10011,single bole tree,"Live, physically damaged",27.5,140,15.1
+0d762c31-60d2-4303-be80-60e57d8a32ad,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.10013,sapling,Live,NA,NA,0.9
+8395ef3c-ddaf-4270-baad-911a60fe3b47,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.10001,small tree,"Live, insect damaged",4.7,130,5.6
+0c19cb2c-60d3-4aff-956c-dced5ba63598,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.04073,single bole tree,"Dead, broken bole",22.2,130,4.9
+758167b1-751d-43f1-9da0-c9f691675fbd,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.10012,single bole tree,"Live, physically damaged",22.5,130,17.2
+f3834a46-1bd1-493e-b555-5bd7167bf5d6,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.04071,single bole tree,"Live, physically damaged",15.8,130,13.9
+da1a1ea5-54c0-4543-a8e0-a7b12f36539b,HARV_035.basePlot.vst,2016-08-16,vst_HARV_2016,HARV_035,NEON.PLA.D01.HARV.04659,small tree,"Live, insect damaged",5.5,130,6.3
+4f0fd2ed-f9b4-4fce-b73a-cd4f67de8f1a,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.00556,single bole tree,"Live, physically damaged",10.6,130,7.2
+4820a54c-4388-43f3-bc63-12f1a341266d,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.10824,small tree,"Live, insect damaged",2.9,130,2.8
+5011002b-3270-4e01-bd0c-71b18a29d54d,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.10368,small shrub,"Live, physically damaged",NA,NA,0.5
+87b5ad07-931b-4a7c-a96f-8ca072009452,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.00859A,multi-bole tree,"Live, insect damaged",12.8,130,NA
+54041601-277e-4b2b-af4d-206b08109448,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.00815,small tree,"Live, insect damaged",7.2,130,6.8
+8452c2b2-05b6-4884-ab38-5db39dd2da76,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.10833,small tree,Standing dead,5,130,4.6
+c0c17463-b23e-4745-8d9e-73c899b8f3db,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.10837,single shrub,Standing dead,5.4,130,4.5
+8dc63eec-9943-49d0-98cb-77e376c8ce06,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.10841,single bole tree,"Live, insect damaged",10.1,130,6.2
+6f82613a-8aa6-43a3-ac38-78990aeadb4f,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.10832,NA,No longer qualifies,NA,NA,NA
+4ec7b90b-fbbb-41dc-8521-3401f3dec313,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.00386,single bole tree,"Live, insect damaged",10.8,130,8.8
+6240a7bf-d291-4b7b-8fb1-3fb9f4fc6453,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.10835A,multi-bole tree,"Live, physically damaged",10.7,130,NA
+b8abd23a-f095-4225-88e1-ee51895524fb,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.10835,multi-bole tree,"Live, physically damaged",15.9,130,17.2
+b805dc9f-72e0-447c-b631-3ea503312e8c,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.00822,single bole tree,"Live, broken bole",11.5,130,5.3
+5481c075-219a-4b6b-8269-0bc1d0af64ff,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.00558,single bole tree,"Live, insect damaged",12.2,130,7.3
+6a91e9f9-5c33-4a05-97f4-57eebb7c1fe2,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.00814A,multi-bole tree,Live,20.8,130,NA
+6d2d34cf-8103-4cf0-abfb-4dc68db6264f,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.10828,small tree,"Dead, broken bole",1.4,130,1.5
+c1b7832f-82c7-4720-91b6-b8bbb09b0a98,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.00529,single bole tree,Live,18.9,130,17.6
+38c36a46-b1fa-4c03-88d5-d54d2c4158da,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.10836,single bole tree,Live,14.3,130,13.7
+d6c55cd2-96dd-412d-9003-51ccbde7f995,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.10373,sapling,Standing dead,NA,NA,1.1
+1983f8c2-3fdd-4ac5-abbf-d7f3c416aa96,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.00861A,multi-bole tree,"Dead, broken bole",9.5,130,NA
+20c69c5d-500c-4849-92a5-025bacfc0deb,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.10370,small shrub,Standing dead,NA,NA,1.1
+45fcb88d-dff5-49f3-b14f-232a468d0bfe,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.00358A,multi-bole tree,Live,10.8,130,NA
+d300978c-6ccd-4426-9734-3c993deac694,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.10371,sapling,Standing dead,NA,NA,0.6
+34e89688-440b-42c4-be4d-6c862749ce4b,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.00554,single bole tree,Live,12.6,130,12.1
+b7bc2b8d-ab6c-4a2e-b066-172843b4698b,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.10825,small tree,"Live, insect damaged",6.5,130,6.5
+a995c785-84da-4539-a9d3-7d61ee4fb3d8,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.00825,single bole tree,"Live, insect damaged",20.8,130,12.7
+16d1800f-f3b9-44af-8be0-ca3254fa5929,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.00812A,multi-bole tree,"Live, insect damaged",7.5,130,NA
+cb1a4be7-5fc7-4483-97ec-6018403a000b,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.10826,small tree,Standing dead,1.8,130,1.8
+4ff07d22-32b0-48ba-969d-344c82c9b268,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.10831,NA,No longer qualifies,NA,NA,NA
+aa7925e7-ea75-4151-b098-4231c696a927,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.00505,multi-bole tree,"Live, insect damaged",23.4,130,13.2
+366e7e57-f5a4-4b48-9eb7-f797fe269af1,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.10370,small shrub,Standing dead,NA,NA,1.1
+7d6eebe3-176d-43bd-b869-e3f3bf1678dd,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.00555,single bole tree,"Live, insect damaged",12.5,130,7.7
+694665ea-a314-4a9c-9c5e-30051a726ce5,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.00503,multi-bole tree,Live,25.6,130,18.8
+8f298330-b8d8-4eee-b301-337133ccf174,HARV_050.basePlot.vst,2016-08-18,vst_HARV_2016,HARV_050,NEON.PLA.D01.HARV.10366,sapling,Standing dead,NA,NA,1

@@ -1,0 +1,210 @@
+uid,namedLocation,date,eventID,plotID,individualID,growthForm,plantStatus,stemDiameter,measurementHeight,height
+c3f1c9c2-0107-4329-8ebd-9c9df3e9f8d5,BART_040.basePlot.vst,2016-09-06,vst_BART_2016,BART_040,NEON.PLA.D01.BART.03799C,multi-bole tree,"Live, physically damaged",22,180,NA
+26bb1b8b-f312-4c77-b2d7-43f7307a9ab9,BART_040.basePlot.vst,2016-09-06,vst_BART_2016,BART_040,NEON.PLA.D01.BART.03781,single bole tree,Live,15.8,130,25.2
+8a5e2c63-7465-4f4e-9003-c3a49f5585e4,BART_040.basePlot.vst,2016-09-06,vst_BART_2016,BART_040,NEON.PLA.D01.BART.03893,single bole tree,Live,50.2,130,20.1
+2e0f06c0-b85b-494f-8061-38bd073894a4,BART_040.basePlot.vst,2016-09-06,vst_BART_2016,BART_040,NEON.PLA.D01.BART.03635,single bole tree,Live,14.1,130,14.6
+39d827fb-097d-4f0a-bf0d-cf212c463239,BART_040.basePlot.vst,2016-09-06,vst_BART_2016,BART_040,NEON.PLA.D01.BART.03791,NA,No longer qualifies,NA,NA,NA
+e59725e9-dbd5-46ec-b42b-40ca6cc2ebcb,BART_040.basePlot.vst,2016-09-06,vst_BART_2016,BART_040,NEON.PLA.D01.BART.03656,single shrub,Live,3.3,130,3.4
+ea70a1d8-55b2-40b3-9e7f-543be2cfcdaa,BART_040.basePlot.vst,2016-09-06,vst_BART_2016,BART_040,NEON.PLA.D01.BART.03797,small tree,"Live, disease damaged",2.5,130,5.3
+bd9db494-d1af-4c44-a30a-b9f949dd62b9,BART_040.basePlot.vst,2016-09-06,vst_BART_2016,BART_040,NEON.PLA.D01.BART.03762,single bole tree,"Dead, broken bole",27.3,130,13.4
+235ba64b-57ac-427e-aeff-4b2d55bcc007,BART_040.basePlot.vst,2016-09-06,vst_BART_2016,BART_040,NEON.PLA.D01.BART.04954,sapling,"Live, physically damaged",NA,NA,0.7
+775bad6f-2470-4f70-81e8-dddaaa377644,BART_040.basePlot.vst,2016-09-06,vst_BART_2016,BART_040,NEON.PLA.D01.BART.03634,single shrub,Live,1,10,0.5
+f6aa7c9a-6ec5-43f5-b479-f1d1daadb6a4,BART_040.basePlot.vst,2016-09-06,vst_BART_2016,BART_040,NEON.PLA.D01.BART.03651,sapling,"Live, disease damaged",NA,NA,1.1
+0bbde597-0b98-4978-8f5c-cecb08898a17,BART_040.basePlot.vst,2016-09-06,vst_BART_2016,BART_040,NEON.PLA.D01.BART.03772,single bole tree,Live,29.6,130,21.3
+b7dd18a8-730e-44b6-8a7c-4753fee16f87,BART_040.basePlot.vst,2016-09-06,vst_BART_2016,BART_040,NEON.PLA.D01.BART.03661,NA,No longer qualifies,NA,NA,NA
+d0e6f772-1067-4cd7-a1ee-408324e9c1db,BART_040.basePlot.vst,2016-09-06,vst_BART_2016,BART_040,NEON.PLA.D01.BART.03792,sapling,"Live, disease damaged",NA,NA,2.4
+11666224-02fa-4e4d-a6dd-658960ff5fc2,BART_040.basePlot.vst,2016-09-06,vst_BART_2016,BART_040,NEON.PLA.D01.BART.03763,single bole tree,Live,37.7,130,19.3
+40a5610f-2ab5-4abe-9d17-753559d1370a,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.04231C,multi-bole tree,Live,14,130,NA
+5375e2fe-bfde-4836-9d8f-a1ebbaf86252,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.04229,single bole tree,Live,86.4,130,18.1
+9e7b2029-379e-4f4f-9ae4-064c2b85037d,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.04231A,multi-bole tree,Live,19.6,130,NA
+ec77bd17-4c70-4b01-a3de-269ac119ff51,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.04232,single bole tree,"Live, physically damaged",17.8,160,12.8
+1301ea28-c538-4f7e-8a25-04c896d96e19,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.04941,sapling,"Live, disease damaged",NA,NA,1.1
+d65eb03d-674f-4fb7-9299-aa06831fb52c,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.03332,single bole tree,Live,10.8,130,8.8
+e9506ab4-dca7-481c-8cc9-65b10f96148f,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.03527,small tree,"Live, disease damaged",5.8,130,9.7
+2279cb60-37c3-4cc0-8273-55089c8a8705,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.04943,sapling,"Live, disease damaged",NA,NA,1.6
+a541f358-21ae-43ac-b0a7-119ab26bb80c,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.03340A,multi-bole tree,Live,11.6,130,NA
+25302443-1596-48f1-8f7e-cf57d3fdb038,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.04944,sapling,"Live, disease damaged",NA,NA,1.1
+e80f6fa6-74ad-4ae5-bb5b-7d509a60272a,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.04233,sapling,"Live, disease damaged",NA,NA,1.5
+609fe090-022a-4b3c-94ed-1900a8302b04,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.03340,multi-bole tree,Live,13.5,130,15
+f6f7d9c3-c486-42ac-addb-e6c9519fa2c8,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.03528,sapling,"Live, disease damaged",NA,NA,1.7
+53c92c6b-ef7f-4cc7-a68c-58f408d941bd,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.03331B,multi-bole tree,"Dead, broken bole",13.6,130,NA
+3a91d768-2061-46dd-9ee2-f65a204750e9,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.04948,single bole tree,Live,32.2,130,15.9
+1d38829c-19cf-4a8b-b1cb-05fa29d1cbd3,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.04949,small tree,"Live, disease damaged",3.5,130,6.5
+c74ec35b-a847-4685-a4b7-51b00f218c05,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.03518,NA,No longer qualifies,NA,NA,NA
+b69e5388-4457-410b-85ec-53c41194cb26,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.04248,single bole tree,Live,23.8,130,18
+abe5a22b-dcf5-4065-82b2-18edbf0c5d9f,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.04239,small tree,"Live, disease damaged",2.8,130,5.3
+df10ee0d-1c2f-4a09-ad2c-3cb42d7cf2dd,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.04943,sapling,"Live, disease damaged",NA,NA,1.6
+2d93a521-c71c-4572-8b3e-df32d2e8881e,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.03510,single bole tree,Live,40.3,130,20.3
+29d94224-3824-4632-b8e8-21df83175cc8,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.03516,NA,No longer qualifies,NA,NA,NA
+c16d52b5-ef63-4af9-bc4a-879ddb0b6cf5,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.03505,multi-bole tree,"Live, disease damaged",23.7,130,16.7
+431f8c2f-961f-4518-8443-a9bc43656b5b,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.04944,sapling,"Live, disease damaged",NA,NA,1.1
+e2353248-cc99-4e77-b691-c5b230668773,BART_032.basePlot.vst,2016-09-07,vst_BART_2016,BART_032,NEON.PLA.D01.BART.04242,sapling,"Live, disease damaged",NA,NA,1.4
+65decce8-c787-47a2-bd93-f9951747c19c,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.03532,single bole tree,"Dead, broken bole",31.5,130,16.6
+d4911f0c-5ccf-4c21-8d35-df67059c4dbc,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.03578,sapling,"Live, disease damaged",NA,NA,1
+a1974caf-6741-4c3a-9fe5-b678721a62ff,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.04283,single bole tree,"Live, disease damaged",10.1,130,9.1
+c7778d93-2218-441b-b937-e0236101f26f,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.04278,small tree,"Live, broken bole",2.7,130,1.5
+26fd6021-3ea4-471c-a93b-fa8d15f0dcf9,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.04270,single bole tree,Live,16.1,130,16.1
+0962a75e-e62d-43ff-b934-733975c9d48b,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.03536,single bole tree,"Live, disease damaged",14.4,130,12.6
+77758567-6595-442a-bb71-6cd7927cb51f,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.04041,sapling,"Live, disease damaged",NA,NA,0.4
+4b1a71b2-4670-4690-9133-8efdbe7663f9,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.03399,small tree,"Live, disease damaged",2,130,4
+33dfc07b-091f-47bc-880b-2f7f8cacdcc3,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.03533,single bole tree,Live,19.9,130,10.2
+7a955a8a-d559-4044-ae6e-8fc2ce3aeca4,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.03572,small tree,"Live, disease damaged",1.7,130,3.4
+dd3ad7b4-a20d-4f1b-8501-420ec6906a7d,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.04106,sapling,"Live, disease damaged",NA,NA,2.2
+88e680be-277f-4eb8-a893-7024a4c1ee0d,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.03388,sapling,"Live, disease damaged",NA,NA,0.6
+20b8da01-b507-428c-86bc-88f413905df3,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.04267A,multi-bole tree,"Live, physically damaged",20.8,130,NA
+c2a1c552-91f5-43b4-a21b-2841d22d09b1,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.04285,sapling,"Live, disease damaged",NA,NA,1.2
+15a25a67-b064-4c2e-94dd-f59b6e71a46e,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.03382,sapling,No longer qualifies,NA,NA,NA
+aa008fbc-e23a-49f3-9433-a69525c28ce4,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.04281,sapling,"Live, disease damaged",NA,NA,1.2
+aea991f1-7e6e-40dd-a53c-6601c3a7d1c7,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.04280,small tree,"Live, disease damaged",5.6,130,7.3
+1d6327a5-871e-460a-9f08-6cf8d30836c2,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.03577,small tree,"Live, disease damaged",5,130,6
+76af8181-9d9c-4108-b836-5edc34a43a15,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.03584,small tree,"Live, disease damaged",1,130,0.8
+d64a5b92-b7b6-4adc-affb-ad4d0886fb25,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.04941,sapling,"Live, disease damaged",NA,NA,1.1
+5c79b8a2-bc70-4f09-8980-2837bd301afb,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.03580,small tree,Live,1.5,130,1.8
+bd2d0fcc-4e7b-41db-b2e2-400e2a80dd5d,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.04281,sapling,"Live, disease damaged",NA,NA,1.3
+53dc55db-9d94-4a94-81c0-6be6185b11a7,BART_071.basePlot.vst,2016-09-07,vst_BART_2016,BART_071,NEON.PLA.D01.BART.03396,sapling,"Live, disease damaged",NA,NA,2.1
+00932611-8f45-4f65-be3a-3aa8a69c78dc,BART_072.basePlot.vst,2016-09-08,vst_BART_2016,BART_072,NEON.PLA.D01.BART.05393,single bole tree,Live,33.4,130,20
+c1294588-7b86-4524-bafd-b3f2dc79e16d,BART_072.basePlot.vst,2016-09-08,vst_BART_2016,BART_072,NEON.PLA.D01.BART.05347,sapling,Live,NA,NA,0.9
+e219ac20-367d-4942-bb24-4812137b604b,BART_072.basePlot.vst,2016-09-08,vst_BART_2016,BART_072,NEON.PLA.D01.BART.05377,small tree,"Live, disease damaged",8.2,130,6.2
+b00379e1-3644-459d-bb7f-9d1df290056e,BART_072.basePlot.vst,2016-09-08,vst_BART_2016,BART_072,NEON.PLA.D01.BART.05359,single bole tree,Live,22.2,130,18.5
+ac0e6794-a5c6-44a6-b371-c5d31c5b34eb,BART_072.basePlot.vst,2016-09-08,vst_BART_2016,BART_072,NEON.PLA.D01.BART.05500,single bole tree,"Live, disease damaged",14.1,130,12.7
+e4057458-e393-45d4-b14f-927959f5a972,BART_072.basePlot.vst,2016-09-08,vst_BART_2016,BART_072,NEON.PLA.D01.BART.05397,single bole tree,Live,18.8,130,12.2
+2d6ce241-61ce-4794-b016-dff7efd8d0f7,BART_072.basePlot.vst,2016-09-08,vst_BART_2016,BART_072,NEON.PLA.D01.BART.05361,single bole tree,"Live, disease damaged",10.4,130,12.4
+d5a63354-c835-417a-99f2-9486bca185ff,BART_072.basePlot.vst,2016-09-08,vst_BART_2016,BART_072,NEON.PLA.D01.BART.05391,multi-bole tree,"Live, disease damaged",44.9,145,17.9
+d10a0198-4db5-4f5a-8836-f7c190f8929f,BART_072.basePlot.vst,2016-09-08,vst_BART_2016,BART_072,NEON.PLA.D01.BART.05360,single bole tree,Live,18.2,130,10.8
+3160a7a6-eca2-49f5-be00-6071ae17d855,BART_072.basePlot.vst,2016-09-08,vst_BART_2016,BART_072,NEON.PLA.D01.BART.05472,sapling,"Live, disease damaged",NA,NA,0.7
+4ccb4f20-e846-49a0-9398-9dbc0de7eaff,BART_072.basePlot.vst,2016-09-08,vst_BART_2016,BART_072,NEON.PLA.D01.BART.05477,sapling,"Live, disease damaged",NA,NA,1.8
+dcca4a0b-bcbd-455d-9498-ef0e47f64bb2,BART_072.basePlot.vst,2016-09-08,vst_BART_2016,BART_072,NEON.PLA.D01.BART.05486,single bole tree,Live,33.7,130,16.9
+65ace718-45d6-470f-acda-1fe16cb94b80,BART_072.basePlot.vst,2016-09-08,vst_BART_2016,BART_072,NEON.PLA.D01.BART.05474,sapling,"Live, disease damaged",NA,NA,0.4
+5785ceeb-2d8d-402b-9843-7b707a0938ae,BART_072.basePlot.vst,2016-09-08,vst_BART_2016,BART_072,NEON.PLA.D01.BART.05494,sapling,"Live, disease damaged",NA,NA,1.5
+98af76d6-eaa9-4138-af94-408ad390400b,BART_072.basePlot.vst,2016-09-08,vst_BART_2016,BART_072,NEON.PLA.D01.BART.05395,single bole tree,Live,11.1,130,4.1
+67372b4e-81ea-4950-b011-995470595f30,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03856,sapling,Live,NA,NA,0.8
+930902ab-e548-448b-802b-f48142fe3e69,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03709,single bole tree,Live,11.2,130,6.2
+dd8a053f-7487-463d-b632-659562476326,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03835,sapling,No longer qualifies,NA,NA,NA
+2cc3e366-92f1-41ac-968b-2ec372eede88,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03726,small tree,"Live, disease damaged",2.5,130,5
+c66bb636-b011-49fc-8f17-e074df97e97d,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03748,small tree,"Live, disease damaged",2.7,130,5.2
+ef20325b-ac29-440c-8c76-535277d19848,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03784,sapling,Standing dead,NA,NA,1.4
+869f5e83-35fd-4121-bae9-d9d8f7ae7dfa,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03619,small tree,"Live, disease damaged",2.5,130,4.7
+734d8c6a-090c-44e8-aed2-ea3186891239,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03878,single bole tree,Live,22.5,130,15.5
+31a892ce-2f67-4cdb-9679-8dce4e4f4c91,BART_074.basePlot.vst,2016-09-12,vst_BART_2016,BART_074,NEON.PLA.D01.BART.05157,sapling,"Live, disease damaged",NA,NA,1.6
+8810cab9-e6b7-4759-a02a-5c0bc3950b19,BART_074.basePlot.vst,2016-09-12,vst_BART_2016,BART_074,NEON.PLA.D01.BART.05207,single bole tree,Live,32.1,130,14.9
+0d63a1ae-267d-4cef-8533-f332b5a463d1,BART_074.basePlot.vst,2016-09-12,vst_BART_2016,BART_074,NEON.PLA.D01.BART.05154,small tree,"Live, disease damaged",1.4,130,2.2
+6545e561-0526-4972-a3d0-9cafa16cec69,BART_074.basePlot.vst,2016-09-12,vst_BART_2016,BART_074,NEON.PLA.D01.BART.05141,single bole tree,"Live, disease damaged",28.1,130,17
+57131770-5e31-4e7e-af0e-50124a9e11a0,BART_074.basePlot.vst,2016-09-12,vst_BART_2016,BART_074,NEON.PLA.D01.BART.05215,single bole tree,Live,13.9,130,8.2
+f1e753e0-9570-4c93-abcb-f415383009a2,BART_074.basePlot.vst,2016-09-12,vst_BART_2016,BART_074,NEON.PLA.D01.BART.05135,single bole tree,"Live, disease damaged",35.3,130,17.2
+b0d95b97-8fd8-4a67-b670-2ae364411e83,BART_074.basePlot.vst,2016-09-12,vst_BART_2016,BART_074,NEON.PLA.D01.BART.05150,single bole tree,"Live, disease damaged",22.7,130,15.8
+be6ee382-8cf0-4d6f-bbc4-af1a66e943fb,BART_074.basePlot.vst,2016-09-12,vst_BART_2016,BART_074,NEON.PLA.D01.BART.05134,single bole tree,Live,18.9,130,8.2
+b3e34a37-ee7b-4923-a513-fb5a5c3e5ba7,BART_074.basePlot.vst,2016-09-12,vst_BART_2016,BART_074,NEON.PLA.D01.BART.05214,single bole tree,"Live, physically damaged",11.6,130,5
+8b63d570-01bb-4ec9-8146-40dea3c3b23d,BART_074.basePlot.vst,2016-09-12,vst_BART_2016,BART_074,NEON.PLA.D01.BART.05140,single bole tree,"Live, disease damaged",30.7,130,17.7
+32c8af59-737d-4a9b-b922-3d7050b84a90,BART_074.basePlot.vst,2016-09-12,vst_BART_2016,BART_074,NEON.PLA.D01.BART.05224,small tree,Standing dead,4.9,130,6.5
+55393c15-5f02-414b-a4bf-edaf19f1bcb0,BART_074.basePlot.vst,2016-09-12,vst_BART_2016,BART_074,NEON.PLA.D01.BART.05160,small tree,"Live, disease damaged",2.3,130,2.1
+0130072a-28ec-443f-b595-2532692d4def,BART_074.basePlot.vst,2016-09-12,vst_BART_2016,BART_074,NEON.PLA.D01.BART.05145,single bole tree,"Live, disease damaged",47.1,130,14
+0242bad1-3af4-4d86-b15c-f6369bbaafac,BART_074.basePlot.vst,2016-09-12,vst_BART_2016,BART_074,NEON.PLA.D01.BART.05206,single bole tree,"Live, disease damaged",54.8,130,19
+c1e62ba5-0702-4d10-81d4-dfa97b665907,BART_074.basePlot.vst,2016-09-12,vst_BART_2016,BART_074,NEON.PLA.D01.BART.05130,single bole tree,"Live, physically damaged",42.1,130,20.4
+cdf929de-7835-4286-9b02-c5f64e8fed2e,BART_074.basePlot.vst,2016-09-12,vst_BART_2016,BART_074,NEON.PLA.D01.BART.05167,sapling,"Live, disease damaged",NA,NA,0.8
+cc6622d4-4522-4a91-a2c8-74d97622de62,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03877,single bole tree,Live,24.3,130,17
+e2d9616b-ec3d-43e8-85e8-d1421b798e79,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03710,multi-bole tree,Live,25.2,130,18.9
+56ea841b-bb68-4ea6-9f77-90624fe7595e,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.06295,small tree,Live,3.7,130,5.4
+909181b4-4897-4b5e-b65a-ff6e01caf630,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03702,sapling,"Live, broken bole",NA,NA,0.3
+1e73ea46-951d-41bd-b93d-4535f7a13548,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03617,single bole tree,Live,23.9,130,14.9
+751145c4-1747-42c5-a953-237406f1255d,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.05598,sapling,Standing dead,NA,NA,1.2
+7f72cb5a-47e0-4453-8da1-29d69d3723bd,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03977,sapling,"Live, disease damaged",NA,NA,2.3
+a800665a-8550-4abd-a0a8-330074a3e63b,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03731,small tree,Standing dead,2.1,130,2.2
+42244349-bf78-4620-855e-9cc802182fc8,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03716,single bole tree,Live,63.7,130,24.4
+f9c0acac-8a4a-432a-9323-c168b3f5dee6,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03846,sapling,Live,NA,NA,0.5
+507e2273-993c-4d39-b0e4-8141f86ba066,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03989,single bole tree,Live,41.4,13,27.3
+104fea78-a1d0-4eb3-adf9-0b5a9bd70137,BART_074.basePlot.vst,2016-09-12,vst_BART_2016,BART_074,NEON.PLA.D01.BART.05155,sapling,"Live, disease damaged",NA,NA,1.2
+bb57dce4-dcdb-403c-8719-40e43db2218c,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03974,single bole tree,Live,12.9,130,8.4
+edb6200a-2906-4579-b98c-c4a7a960fc07,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03847,sapling,"Live, disease damaged",NA,NA,1.6
+2e07e231-57bd-470a-b403-24deb515455c,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03603,single bole tree,Live,17.3,130,20.2
+58b3d100-1612-450e-92ed-388c5f43951d,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03723,sapling,"Live, disease damaged",NA,NA,1.3
+0aa8a7f3-63d9-4ffd-9523-aea2d15d877e,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.05592,small tree,"Live, disease damaged",5.4,130,7
+f5313e26-c95e-444b-8e0c-7baa10bb74f5,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03787,single bole tree,Live,56.8,130,21.8
+f4da9de1-2e63-44f9-93c1-0ef99dfc8d88,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03888,single bole tree,Live,35.1,130,19.9
+c675ab89-4570-427a-a452-e57af63286d3,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03606,sapling,Live,NA,NA,0.9
+eac91b6e-91fb-4a22-9b59-d538f427dd6b,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03848,single bole tree,"Live, disease damaged",12.4,130,12.9
+6bc3d4ff-bba1-4169-9a97-9ac652f2a859,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.05594,sapling,"Live, disease damaged",NA,NA,0.8
+0b0ba63d-ded1-402b-9f87-eb1278eb2e07,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03616,small tree,Live,2,130,2.4
+51f971a3-dda8-4f53-bb34-7a657649f5b3,BART_070.basePlot.vst,2016-09-12,vst_BART_2016,BART_070,NEON.PLA.D01.BART.03846,sapling,Live,NA,NA,0.5
+2203e8e9-9030-45c0-9d88-108c10a33f24,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05329,small tree,Standing dead,4.2,130,1.8
+46ad0c32-e9df-4ca7-bdaa-7e603d0dab7d,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05090,single bole tree,Live,14.1,130,8.3
+866be904-1de5-443b-a875-33bb3c6c9321,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05447,small tree,"Live, disease damaged",6.2,130,5.9
+07cdfef7-3013-4513-81c5-3b95f63cbe48,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05289,single bole tree,Live,36.7,130,17.3
+5287fe85-6a98-449a-ae29-e820b2679598,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05436,single bole tree,"Live, disease damaged",20.5,130,14.1
+3ac67eb2-3994-4b58-b2ad-07c29f54ba87,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05445,small tree,Live,8.2,130,5.1
+d3dd8420-6d67-472a-86d2-2df2076c1135,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05402,single bole tree,Live,10.4,130,5
+ac07a63b-ba6a-4012-a654-f5bb233ddf8e,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05401,single bole tree,"Live, disease damaged",12.5,130,13.9
+20fde4fb-d87d-4249-9899-287ad4078b67,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05321,sapling,Live,NA,NA,0.6
+2172e9bb-bed0-423f-8b7d-44e71fab4bd2,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05307,small tree,"Live, disease damaged",7.5,130,9.7
+cc2687ba-84c0-4790-b3a5-4d48c73fa1c5,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05308,small tree,Live,8.8,130,6.3
+44b7aded-236f-4121-b43f-a214a27e98e6,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05409,single bole tree,"Live, disease damaged",36.8,130,17.3
+b1ec8a38-abbf-456a-aaaf-6d3fe89249b6,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05341,sapling,Standing dead,NA,NA,0.6
+9f5beb55-ac8f-4b8e-86f8-c6014cad3073,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05577,single bole tree,Live,10,130,7.6
+ac72f2a7-f74b-4b1e-bc50-e0f05bea2c1b,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05329,sapling,"Live, disease damaged",NA,NA,NA
+1f708a01-93ab-4916-a4b6-722112dab8c5,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05414,multi-bole tree,Live,22.1,130,18.3
+d191f670-7a2d-402f-bdad-44aa592f6c55,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05318,small tree,Live,6.5,130,4
+9dd29266-4ae0-4d06-acca-dce9226ba698,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05440,single bole tree,"Dead, broken bole",25.2,130,14.8
+6b6e47c8-778b-4556-9cc1-dc5abbb63da0,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05304,small tree,"Live, disease damaged",2.4,130,2.8
+bcd22be4-819e-4f25-a562-b8ecbf1319de,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05088,single bole tree,"Live, disease damaged",12.5,130,16.4
+e53af2c7-d266-4718-9be7-939a5cb6ab42,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05316,small tree,Live,3.8,130,3.3
+66729a99-001f-4ce1-8460-4b73e8c9bb63,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05460,small tree,"Live, disease damaged",4.5,130,4.9
+c76f9e71-8dde-4c01-b17d-c01f0142f286,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05417,single bole tree,"Live, disease damaged",15.9,130,14
+4afbe90a-10b5-4b41-8fa9-624cf021323f,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05314,small tree,"Live, disease damaged",3.1,130,3.1
+97878d9a-4deb-4d1c-8336-fc86f36197e8,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05095,single bole tree,"Live, disease damaged",12.8,130,3
+ddaff639-d47b-4924-84d6-f7b8e812da94,BART_044.basePlot.vst,2016-09-13,vst_BART_2016,BART_044,NEON.PLA.D01.BART.05326,small tree,"Live, disease damaged",9,130,7.4
+dcf5e916-27b2-4bde-8012-560e1c8dcc99,BART_015.basePlot.vst,2016-09-14,vst_BART_2016,BART_015,NEON.PLA.D01.BART.05564,single bole tree,"Live, physically damaged",10.3,130,5.9
+6741d6b7-5d1b-4bff-8462-efd5c09befcf,BART_015.basePlot.vst,2016-09-14,vst_BART_2016,BART_015,NEON.PLA.D01.BART.05563,sapling,"Live, disease damaged",NA,NA,0.8
+1244674d-262b-41a6-bef2-845e2b79beb3,BART_015.basePlot.vst,2016-09-14,vst_BART_2016,BART_015,NEON.PLA.D01.BART.05565,sapling,"Live, broken bole",NA,NA,0.5
+7e7b3b1e-4386-42fb-bf92-6b38ffb38c7a,BART_015.basePlot.vst,2016-09-14,vst_BART_2016,BART_015,NEON.PLA.D01.BART.05678,small tree,"Live, disease damaged",7.5,130,5.3
+3d1e88a1-3ffd-406d-b9c3-9b37e3d9cee3,BART_016.basePlot.vst,2016-09-14,vst_BART_2016,BART_016,NEON.PLA.D01.BART.00559A,multi-bole tree,"Live, physically damaged",43,130,NA
+6e3a9d26-22ce-4fa6-b8aa-cd0af5589012,BART_037.basePlot.vst,2016-09-14,vst_BART_2016,BART_037,NEON.PLA.D01.BART.05085,single bole tree,"Live, physically damaged",31.1,130,19.4
+ee4ae33c-4a3f-402a-8faf-e1504fc93a37,BART_037.basePlot.vst,2016-09-14,vst_BART_2016,BART_037,NEON.PLA.D01.BART.05086,single bole tree,"Live, disease damaged",10.4,130,7.2
+1dfc9224-7409-4ef4-a7e1-6c00600513ab,BART_037.basePlot.vst,2016-09-14,vst_BART_2016,BART_037,NEON.PLA.D01.BART.05259,sapling,"Live, disease damaged",NA,NA,1
+eb8ff9d9-df18-436f-876f-de9b95955f26,BART_037.basePlot.vst,2016-09-14,vst_BART_2016,BART_037,NEON.PLA.D01.BART.05680,sapling,Standing dead,NA,NA,0.8
+da2f4e93-53ae-434e-83ba-522eab24556c,BART_028.basePlot.vst,2016-09-14,vst_BART_2016,BART_028,NEON.PLA.D01.BART.05569,sapling,Live,NA,NA,0.4
+03744a35-d6d6-4ee8-888b-42d4cf216e9f,BART_037.basePlot.vst,2016-09-14,vst_BART_2016,BART_037,NEON.PLA.D01.BART.05065,single bole tree,"Live, disease damaged",20.1,130,19.9
+6b983525-6eda-4232-aaf6-b5d0dd3f7f60,BART_037.basePlot.vst,2016-09-14,vst_BART_2016,BART_037,NEON.PLA.D01.BART.05057,sapling,"Live, disease damaged",NA,NA,1
+f61f3ec6-222c-4e0d-b0aa-bd231634e094,BART_037.basePlot.vst,2016-09-14,vst_BART_2016,BART_037,NEON.PLA.D01.BART.05682,sapling,"Live, disease damaged",NA,NA,0.8
+c1fd8034-716a-428d-87c6-7b8709a72e60,BART_037.basePlot.vst,2016-09-14,vst_BART_2016,BART_037,NEON.PLA.D01.BART.05238,sapling,"Live, disease damaged",NA,NA,0.6
+73d0001b-333d-4e21-98fd-0ccbf5474b0f,BART_037.basePlot.vst,2016-09-14,vst_BART_2016,BART_037,NEON.PLA.D01.BART.05686,sapling,"Live, disease damaged",NA,NA,0.9
+0e566670-07c9-4f70-bec3-f67472101e68,BART_037.basePlot.vst,2016-09-14,vst_BART_2016,BART_037,NEON.PLA.D01.BART.05020,sapling,"Live, disease damaged",NA,NA,1
+12d4bd65-bbeb-42b0-a068-058a508e72a9,BART_037.basePlot.vst,2016-09-14,vst_BART_2016,BART_037,NEON.PLA.D01.BART.05244,small tree,"Live, disease damaged",1.7,130,3.3
+73667514-bbac-40db-9853-306b92a67d37,BART_037.basePlot.vst,2016-09-14,vst_BART_2016,BART_037,NEON.PLA.D01.BART.05069,single bole tree,"Live, disease damaged",16.9,130,17.8
+165ff11d-df42-4a8f-b793-c5610b509088,BART_037.basePlot.vst,2016-09-14,vst_BART_2016,BART_037,NEON.PLA.D01.BART.05191,sapling,"Live, disease damaged",NA,NA,1.1
+22b153bc-2b64-4d9b-82b8-fce5523bdb29,BART_037.basePlot.vst,2016-09-14,vst_BART_2016,BART_037,NEON.PLA.D01.BART.05257,small tree,"Live, disease damaged",1.5,130,2.6
+06879f10-43d8-49ef-b44b-5b434da1600e,BART_028.basePlot.vst,2016-09-14,vst_BART_2016,BART_028,NEON.PLA.D01.BART.05568,sapling,"Live, disease damaged",NA,NA,0.9
+53bfb99e-c65c-4ccf-a2c0-3f4be60d79d5,BART_037.basePlot.vst,2016-09-14,vst_BART_2016,BART_037,NEON.PLA.D01.BART.05232,sapling,"Live, disease damaged",NA,NA,0.7
+8afb15da-698d-45a5-a8f9-a738fcf24ab0,BART_037.basePlot.vst,2016-09-14,vst_BART_2016,BART_037,NEON.PLA.D01.BART.05077,single bole tree,"Live, disease damaged",12,130,14.3
+23963848-1803-46a5-a2b0-651be51a5465,BART_037.basePlot.vst,2016-09-14,vst_BART_2016,BART_037,NEON.PLA.D01.BART.05249,sapling,No longer qualifies,NA,NA,NA
+306e3273-c110-4d92-b5d8-4c13fec88619,BART_037.basePlot.vst,2016-09-14,vst_BART_2016,BART_037,NEON.PLA.D01.BART.05683,small tree,Standing dead,1.2,130,1.5
+f684d423-3d6c-46c3-a775-2d5a54afe224,BART_037.basePlot.vst,2016-09-14,vst_BART_2016,BART_037,NEON.PLA.D01.BART.05030,sapling,Live,NA,NA,1
+eafd88e4-6384-49a7-bed9-08d15487716c,BART_037.basePlot.vst,2016-09-14,vst_BART_2016,BART_037,NEON.PLA.D01.BART.05688,sapling,"Live, disease damaged",NA,NA,0.8
+fb441019-c255-49a5-a0f6-42b86840cbb6,BART_010.basePlot.vst,2016-09-19,vst_BART_2016,BART_010,NEON.PLA.D01.BART.04428,small tree,Standing dead,1,130,2.1
+664c4f0f-aeb2-4036-83f4-4aa1217f33d9,BART_010.basePlot.vst,2016-09-19,vst_BART_2016,BART_010,NEON.PLA.D01.BART.00208A,multi-bole tree,"Live, disease damaged",5.5,130,10
+9018c885-9457-4f20-ae4a-34ce728d371b,BART_010.basePlot.vst,2016-09-19,vst_BART_2016,BART_010,NEON.PLA.D01.BART.04437,small tree,"Live, disease damaged",5.2,130,7.5
+ea55798f-9d2f-413a-8e21-325cdbb503b6,BART_010.basePlot.vst,2016-09-19,vst_BART_2016,BART_010,NEON.PLA.D01.BART.04431,small tree,Standing dead,4.3,130,6.5
+d9cb2eab-5b4f-4c1e-90ab-7573c93fd485,BART_010.basePlot.vst,2016-09-19,vst_BART_2016,BART_010,NEON.PLA.D01.BART.04433,small tree,Standing dead,2,130,2.8
+0d099c4f-3d73-46f1-b7ed-3d1fde866145,BART_013.basePlot.vst,2016-09-20,vst_BART_2016,BART_013,NEON.PLA.D01.BART.00636A,multi-bole tree,Standing dead,7.3,130,4.7
+55dbdea4-4dc7-4d51-8d8c-f156ce6f3027,BART_013.basePlot.vst,2016-09-20,vst_BART_2016,BART_013,NEON.PLA.D01.BART.05559,small shrub,Live,NA,NA,0.6
+5d6a462b-2926-4506-bf19-90e23273d67c,BART_013.basePlot.vst,2016-09-20,vst_BART_2016,BART_013,NEON.PLA.D01.BART.05557,sapling,"Live, disease damaged",NA,NA,1.5
+cb8f8226-2f34-4fbe-9986-91700428e9ff,BART_013.basePlot.vst,2016-09-20,vst_BART_2016,BART_013,NEON.PLA.D01.BART.00677,small shrub,Live,NA,NA,0.8
+e700c1f0-c002-41cc-a82e-bf41df264c7b,BART_023.basePlot.vst,2016-09-21,vst_BART_2016,BART_023,NEON.PLA.D01.BART.05653,small tree,Live,7.9,130,4.3
+06e5f8a6-6831-4043-9f56-a08054540b24,BART_006.basePlot.vst,2016-09-21,vst_BART_2016,BART_006,NEON.PLA.D01.BART.05642,small tree,"Live, disease damaged",1.1,130,1.9
+4bb805e7-e474-41c5-922f-c7fe3a3adc78,BART_026.basePlot.vst,2016-09-21,vst_BART_2016,BART_026,NEON.PLA.D01.BART.05542,sapling,Live,NA,NA,1.5
+2d456b7a-92b9-40c3-ace5-691941e4f6a5,BART_005.basePlot.vst,2016-09-23,vst_BART_2016,BART_005,NEON.PLA.D01.BART.05640,sapling,Live,NA,NA,0.7
+82abba9d-4f22-4783-b56d-30573ea0b9d0,BART_005.basePlot.vst,2016-09-23,vst_BART_2016,BART_005,NEON.PLA.D01.BART.05630,sapling,Live,NA,NA,0.7
+bb6d8a7c-dc21-40db-8dd4-59e6b622a7fa,BART_002.basePlot.vst,2016-09-27,vst_BART_2016,BART_002,NEON.PLA.D01.BART.05511,sapling,"Live, disease damaged",NA,NA,1
+0566ab4e-ab97-4d93-b5f2-1197f2942920,BART_002.basePlot.vst,2016-09-27,vst_BART_2016,BART_002,NEON.PLA.D01.BART.01243A,multi-bole tree,Live,6.6,130,NA
+7c07f04a-e07e-4b10-9bf9-4b753a275ac1,BART_002.basePlot.vst,2016-09-27,vst_BART_2016,BART_002,NEON.PLA.D01.BART.01123,single bole tree,Live,10.6,130,13.7
+2606abdc-0051-4a28-a798-b6f08785fffe,BART_002.basePlot.vst,2016-09-27,vst_BART_2016,BART_002,NEON.PLA.D01.BART.05626,sapling,Standing dead,NA,NA,0.7
+970f9ee2-897f-4a0f-9da9-44c6ae4ba1b5,BART_002.basePlot.vst,2016-09-27,vst_BART_2016,BART_002,NEON.PLA.D01.BART.05527,small tree,Standing dead,1.3,130,2.9
+0db64c49-18ef-43d9-ad03-25bad4bcf313,BART_002.basePlot.vst,2016-09-27,vst_BART_2016,BART_002,NEON.PLA.D01.BART.01239,sapling,"Live, disease damaged",NA,NA,1.2
+b07a1702-1881-48d0-b2c3-51696145b40e,BART_002.basePlot.vst,2016-09-27,vst_BART_2016,BART_002,NEON.PLA.D01.BART.05623,sapling,"Live, disease damaged",NA,NA,1.3
+ae3767fc-0b8d-48dd-bfca-18bc3ff12dda,BART_018.basePlot.vst,2016-09-27,vst_BART_2016,BART_018,NEON.PLA.D01.BART.05783,sapling,"Live, disease damaged",NA,NA,1.7
+4260daf6-fcb8-470a-ab6e-2bc5f7c6ba82,BART_002.basePlot.vst,2016-09-27,vst_BART_2016,BART_002,NEON.PLA.D01.BART.05522,sapling,"Live, disease damaged",NA,NA,1
+67180bf0-d56d-4d17-aa92-08f1e4d01230,BART_002.basePlot.vst,2016-09-27,vst_BART_2016,BART_002,NEON.PLA.D01.BART.05523,sapling,"Live, disease damaged",NA,NA,1.4
+f8302669-39f6-4a3a-b8c3-3879d46e8cd7,BART_002.basePlot.vst,2016-09-27,vst_BART_2016,BART_002,NEON.PLA.D01.BART.05519,sapling,Live,NA,NA,0.6
+04f6c292-8b91-455c-952c-fd7990084418,BART_018.basePlot.vst,2016-09-27,vst_BART_2016,BART_018,NEON.PLA.D01.BART.05782,sapling,Standing dead,NA,NA,0.2
+ad56dc98-bea8-4404-84aa-0bfeb8d7add4,BART_018.basePlot.vst,2016-09-27,vst_BART_2016,BART_018,NEON.PLA.D01.BART.02092A,multi-bole tree,Live,30.7,130,NA
+49a66598-81c7-42c9-88f9-2d17f5d4aa9d,BART_003.basePlot.vst,2016-09-28,vst_BART_2016,BART_003,NEON.PLA.D01.BART.05614,sapling,"Dead, broken bole",NA,NA,0.3
+ab27e9ed-ef40-45d7-af44-c80a25445db7,BART_024.basePlot.vst,2016-09-28,vst_BART_2016,BART_024,NEON.PLA.D01.BART.05611,sapling,Live,NA,NA,0.5
+edb58838-b219-4b4d-9fbb-9022793010fc,BART_024.basePlot.vst,2016-09-28,vst_BART_2016,BART_024,NEON.PLA.D01.BART.05608,single bole tree,Live,22.5,130,23.7

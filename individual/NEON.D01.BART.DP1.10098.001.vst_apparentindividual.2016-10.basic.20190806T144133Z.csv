@@ -1,0 +1,6 @@
+uid,namedLocation,date,eventID,plotID,individualID,growthForm,plantStatus,stemDiameter,measurementHeight,height
+d6ea14a7-d60b-40af-80b3-7fc298b4c157,BART_011.basePlot.vst,2016-10-17,vst_BART_2016,BART_011,NEON.PLA.D01.BART.05797,small tree,"Live, disease damaged",1,130,2.4
+4dd89383-9ef9-476f-87e6-25e5eeb337d2,BART_025.basePlot.vst,2016-10-17,vst_BART_2016,BART_025,NEON.PLA.D01.BART.00412B,multi-bole tree,"Dead, broken bole",14.9,130,1.4
+11df1f05-b483-4310-8d1e-3a28fd16e6dd,BART_025.basePlot.vst,2016-10-17,vst_BART_2016,BART_025,NEON.PLA.D01.BART.00412A,multi-bole tree,"Dead, broken bole",30.5,130,2.8
+de7386ab-743f-4e14-8f76-f85d6c046707,BART_007.basePlot.vst,2016-10-18,vst_BART_2016,BART_007,NEON.PLA.D01.BART.04415,sapling,Live,NA,NA,0.7
+b2e75334-84a7-42e4-9d54-3e7724a22b88,BART_007.basePlot.vst,2016-10-18,vst_BART_2016,BART_007,NEON.PLA.D01.BART.05785,single bole tree,Live,11.1,130,6.3
